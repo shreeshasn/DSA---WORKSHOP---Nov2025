@@ -33,6 +33,13 @@ public class single_number
     public  void main(String[] args) {
         int[] nums = {4,2,2,2,5,5,6,5,5};
         System.out.println(singleNumber(nums));
+
+        int sum=0;
+        for(int i : nums)
+        {
+            sum = sum^i;
+        }
+        System.out.println(sum); 
     }
 
 }
