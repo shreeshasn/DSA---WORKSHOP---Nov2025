@@ -6,3 +6,5 @@ MinStack (151)
 LargestRectangle ()
 Celebrity Problem
 First unique Character ( 387 )
+Sliding Window Maximum (239)
+Sort Colors (Dutch Flag algo) (75)
